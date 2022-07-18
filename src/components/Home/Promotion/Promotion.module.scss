@@ -1,0 +1,57 @@
+.promotion {
+  background-color: #f7f7f7;
+  height: 8.3vh;
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.slider,
+.sliderBoxNike {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  margin-top: 10px;
+
+  strong {
+    margin: 0 8px;
+    font-size: 14px;
+  }
+
+  span {
+    font-size: 13px;
+  }
+
+  a {
+    color: #000;
+    font-size: 12px;
+    margin-left: 4px;
+  }
+
+  .exchange {
+    position: relative;
+    right: 17px;
+    top: 17px;
+  }
+
+  .logo {
+    position: relative;
+    left: 40px;
+
+    .nike {
+      font-size: 8px;
+      position: relative;
+      right: 40px;
+      top: -25px;
+      font-weight: 900;
+    }
+  }
+
+  .nikeImg {
+    margin: -5px 20px 0 0;
+  }
+}
+
+.sliderBoxNike {
+  position: relative;
+  top: -10px;
+}

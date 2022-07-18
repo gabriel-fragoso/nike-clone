@@ -1,0 +1,86 @@
+{
+  "shoe": [
+    {
+      "id": "1",
+      "name": "METALLIC SILVER CHLORINE BLUE",
+      "price": "1.699,99",
+      "manufacturer": "NIKE AIR MAX 97 OG",
+      "image_front": "https://images.lojanike.com.br/515x515/produto/tenis-nike-air-max-97-og-DM0028-001-1-11654636732.jpg",
+      "image_back": "https://images.lojanike.com.br/515x515/produto/tenis-nike-air-max-97-og-DM0028-001-2-21654636732.jpg",
+      "color": "White + Blue",
+      "availability": "AVISE-ME"
+    },
+    {
+      "id": "2",
+      "name": "UNC",
+      "price": "1.299,99",
+      "manufacturer": "AIR JORDAN 1 RETRO LOW OG",
+      "image_front": "https://images.lojanike.com.br/515x515/produto/air-jordan-1-retro-low-og-CZ0790-104-1-11657816018.jpg",
+      "color": "White + Blue + Black",
+      "availability": "AVISE-ME"
+    },
+    {
+      "id": "3",
+      "name": "SINCE '82",
+      "price": "1.199,99",
+      "manufacturer": "AIR FORCE 1 LOW RETRO",
+      "image_front": "https://images.lojanike.com.br/515x515/produto/tenis-air-force-1-low-retro-DJ3911-100-1-11657043714.jpg",
+      "color": "White",
+      "availability": "AVISE-ME"
+    },
+    {
+      "id": "4",
+      "name": "TRIPLE BLACK",
+      "price": "1.299,99",
+      "manufacturer": "NOCTA HOT STEP",
+      "image_front": "https://images.lojanike.com.br/515x515/produto/tenis-nike-nocta-hot-step-air-terra-masculino-DH4692-001-1-11646345012.jpg",
+      "color": "Black",
+      "availability": "ESGOTADO"
+    },
+    {
+      "id": "5",
+      "name": "GRAFFITI NAVY",
+      "price": "699,99",
+      "manufacturer": "DUNK LOW GS",
+      "image_front": "https://images.lojanike.com.br/515x515/produto/tenis-nike-dunk-low-se-su22-bg-DM1051-400-1-11648130738.jpg",
+      "color": "Graffiti",
+      "availability": "AVISE-ME"
+    },
+    {
+      "id": "6",
+      "name": "GREY/WHITE",
+      "price": "1.299,99",
+      "manufacturer": "AJKO 1",
+      "image_front": "https://images.lojanike.com.br/515x515/produto/ajko-1-DO5047-100-1-11657120221.jpg",
+      "color": "Grey + White",
+      "availability": "AVISE-ME"
+    },
+    {
+      "id": "7",
+      "name": "BISON AND TOTAL ORANGE",
+      "price": "999,99",
+      "manufacturer": "ACG AIR MADA",
+      "image_front": "https://images.lojanike.com.br/1024x1024/produto/tenis-acg-air-mada-DO9332-200-1-11654637485.jpg",
+      "color": "Brown",
+      "availability": "COMPRAR"
+    },
+    {
+      "id": "8",
+      "name": "BLACK",
+      "price": "1.499,99",
+      "manufacturer": "NIKE SHOX MULE MARTINE ROSE",
+      "image_front": "https://images.lojanike.com.br/515x515/produto/nike-shox-mule-martine-rose-DQ2401-001-1-11657732110.jpg",
+      "color": "Black",
+      "availability": "COMPRAR"
+    },
+    {
+      "id": "9",
+      "name": "LUKA",
+      "price": "1.299,99",
+      "manufacturer": "AIR JORDAN 36 LOW",
+      "image_front": "https://images.lojanike.com.br/515x515/produto/tenis-jordan-marvel-low-luka-DN4196-430-1-11655903797.jpg",
+      "color": "Blue",
+      "availability": "COMPRAR"
+    }
+  ]
+}

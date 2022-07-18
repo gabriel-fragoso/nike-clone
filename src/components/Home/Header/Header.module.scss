@@ -1,0 +1,38 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  border-bottom: 1px solid #e5e5e5;
+  z-index: 1;
+  background-color: #fff;
+
+  .nike {
+    margin-left: -220px;
+  }
+
+  a {
+    font-size: 14px;
+    text-decoration: none;
+    color: #000;
+    font-weight: 600;
+    margin-right: -230px;
+  }
+
+  .input {
+    margin-right: -240px;
+    border: 1px solid #e5e5e5;
+    height: 40px;
+    width: 220px;
+    display: flex;
+    align-items: center;
+    padding-left: 10px;
+    border-radius: 4px;
+
+    input {
+      border: none;
+      outline: none;
+      padding-left: 20px;
+      color: #757575;
+    }
+  }
+}

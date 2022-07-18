@@ -1,0 +1,66 @@
+.nav {
+  display: flex;
+  border-bottom: 1px solid #e5e5e5;
+  align-items: center;
+
+  .joinUs {
+    padding: 3px 20px 5px 45px;
+    margin-right: 25px;
+
+    span {
+      color: #959595;
+      text-decoration: none;
+      font-weight: 400;
+      font-size: 12px;
+      transition: .2s;
+      cursor: pointer;
+
+      &:hover {
+        color: #000;
+      }
+    }
+  }
+
+  .navRight {
+    margin-left: auto;
+    margin-right: 15px;
+
+    a {
+      text-decoration: none;
+      color: #757575;
+      font-weight: 400;
+      font-size: 13px;
+      padding-right: 30px;
+      transition: .2s;
+
+      &:hover {
+        color: #000;
+      }
+    }
+
+    .button {
+      background-color: transparent;
+      border: none;
+      position: relative;
+      top: 4px;
+      cursor: pointer;
+    }
+
+    .cart {
+      position: relative;
+      color: #FFF;
+      background-color: #fa5400;
+      border-radius: 100%;
+      width: 15px;
+      height: 15px;
+      border: none;
+      font-size: 11px;
+      right: 10px;
+      top: -9px;
+      cursor: pointer;
+    }
+
+  }
+
+
+}
