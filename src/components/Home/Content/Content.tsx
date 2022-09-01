@@ -6,7 +6,7 @@ import Image from 'next/image'
 export default function Content() {
   return (
     <div className={styled.content}>
-      <a target="_blank" href="https://www.nike.com.br/membros-nike/cadastro?orig_campaign=nikeifc">
+      <a href="https://www.nike.com.br/membros-nike/cadastro?orig_campaign=nikeifc">
         <div className={styled.background}>
           <Image src={backgroundMembers} />
         </div>
